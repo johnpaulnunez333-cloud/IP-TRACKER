@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+ip_tracker_*.json
+*.mmdb
+.venv/
+venv/
+.vscode/
+.idea/
